@@ -27,3 +27,7 @@ https://local-library-production-081b.up.railway.app/catalog
 ## Show your support ✨
 
 Give a ⭐️ if you like this project!
+
+<hr>
+
+> Acknowledgments: [MDN](https://developer.mozilla.org/en-US/)
